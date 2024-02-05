@@ -1,1 +1,5 @@
-print('Hello, World!')
+print("Once upon a time in a distant galaxy, there was a brave astronaut named Alex.")
+print("One day, while exploring a mysterious planet, Alex discovered a hidden portal to another dimension.")
+print("Stepping through the portal, Alex found a world filled with talking animals and magical landscapes.")
+print("Excited to share the news, Alex returned to Earth and became a renowned storyteller among humans.")
+print("And so, the adventures of Alex, the interdimensional explorer, continued.")
